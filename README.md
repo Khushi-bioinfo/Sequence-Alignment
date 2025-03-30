@@ -1,1 +1,1 @@
-Aligning sequences with multiple and paiwise sequence alignments
+Aligning sequences with multiple and pariwise sequence alignments
